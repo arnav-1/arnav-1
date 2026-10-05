@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.pinimg.com/originals/53/0d/48/530d48aed30ade25448afa74d8a2959f.gif](https://dribbble.com/shots/27097799-Developer-Animation?utm_source=Clipboard_Shot&utm_campaign=GLITCHANT_by_sami&utm_content=Developer%20Animation.&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=GLITCHANT_by_sami&utm_content=Developer%20Animation.&utm_medium=Social_Share)" width="100%" style="border-radius: 10px; object-fit: cover; max-height: 300px;" />
+<img src="https://i.pinimg.com/originals/53/0d/48/530d48aed30ade25448afa74d8a2959f.gif" width="100%" style="border-radius: 10px; object-fit: cover; max-height: 300px;" />
 
 <br/>
 
